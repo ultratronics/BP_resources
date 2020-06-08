@@ -1,0 +1,12 @@
+set -e
+https://intoli.com/blog/exit-on-errors-in-bash-scripts/
+https://stackoverflow.com/questions/31318068/shell-script-to-remove-a-file-if-it-already-exist
+
+https://serverfault.com/questions/691033/how-to-send-an-e-mail-after-a-cron-job
+
+https://unix.stackexchange.com/questions/78084/ls-gives-me-different-sort-orders-during-a-cron-job
+
+https://makandracards.com/makandra/28205-linux-running-a-program-with-a-different-locale-than-your-default
+
+https://shankaraman.wordpress.com/tag/disable-recovery-mode-in-linux/
+https://www.networkworld.com/article/2764489/unix-tip-grepping-on-whole-words.html
